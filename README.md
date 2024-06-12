@@ -1,6 +1,6 @@
 # Dino Game
 
-This project is a simple implementation of the classic Dino game using vanilla JavaScript, HTML, and CSS. The code focuses on creating an interactive, real-time game where the player controls a dinosaur to jump over cacti.
+This project is a simple implementation of the classic Dino game using vanilla JavaScript, HTML, and CSS. The code focuses on creating an interactive, real-time game where the player controls a dinosaur to jump over the cacti.
 
 ## Game Logic:
 - Behind the scenes, the game's code dictates how the dinosaur moves and reacts to player input. It handles the animation of the dinosaur's movements, such as running and jumping, as well as the appearance and movement of obstacles like cacti. This ensures that the game feels responsive and realistic to the player's actions.
